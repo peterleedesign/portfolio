@@ -6,5 +6,5 @@ div img{  margin:0 auto;  display: block;}
 .fixed2{  position: fixed;  right:100px;  bottom:40px;}
 .fixed2:hover{  opacity:0.8;}
 .guide{margin: auto; width: 1320px; margin-top: 50px;}
-.yv{margin-left: auto; margin-right: auto; display: block;  border: solid 20px #fecfa7; margin-top: 120px; 
+.yv{margin-left: auto; margin-right: auto; display: block;  border: solid 20px #fecfa7; margin-top: 10px; margin-bottom: 100px;
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3);}
